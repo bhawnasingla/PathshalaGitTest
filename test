@@ -1,2 +1,6 @@
 hey this is just a test file for git commands
+<<<<<<< HEAD
 changed to master
+=======
+changed to branch1..trying to have conflict
+>>>>>>> spike1
